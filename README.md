@@ -1,6 +1,9 @@
 # Tableau-Based
 
+![img1](https://www.atinternet.com/uploads/Tableau.png)
+
 Making your first Visualization using **Tableau**
 
 
-![img](https://cdnv.tblsft.com/adhoc/www/web-authoring-homepage.v1.1.0.mp4)
+![img2](https://miro.medium.com/max/8430/1*ddva9tfMYmDkmua6B2OqBg.jpeg)
+
